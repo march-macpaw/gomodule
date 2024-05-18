@@ -1,4 +1,4 @@
-module github.com/march-macpaw/gomodule
+module github.com/march-macpaw/gomodule/v2
 
 go 1.22.2
 
